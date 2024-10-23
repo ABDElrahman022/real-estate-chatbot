@@ -67,7 +67,7 @@ This project uses the following frameworks and services:
 - **Pinecone** for vector storage and retrieval.
 - **Streamlit** for the interactive web-based front end.
 ## Team Members
-- Abelrahman Mohamed
+- Abdelrahman Mohamed
 - Seif Elsayed
 - Ahmed Alaa
 - Mostafa Hamada
