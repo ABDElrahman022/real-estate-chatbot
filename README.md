@@ -9,6 +9,7 @@ Welcome to the **RAG Real Estate Chatbot** project. This chatbot is designed to 
 - [Environment Setup](#environment-setup)
 - [Usage](#usage)
 - [Acknowledgements](#acknowledgements)
+- [Team Members](#team-members)
 
 ## Installation
 
@@ -65,3 +66,9 @@ This project uses the following frameworks and services:
 - **LangChain** for orchestrating document-based context retrieval and chatbot responses.
 - **Pinecone** for vector storage and retrieval.
 - **Streamlit** for the interactive web-based front end.
+## Team Members
+- Abelrahman Mohamed
+- Seif Elsayed
+- Ahmed Alaa
+- Mostafa Hamada
+- Ahmed Saad
